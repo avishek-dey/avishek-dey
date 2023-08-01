@@ -24,6 +24,6 @@ If you share a passion for design, frontend development, or simply want to colla
 
 Check out my portfolio website [here](https://avishek-dey.github.io/portfolio/) to explore some of my design and coding masterpieces.
 
-![Avishek  's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Avishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 
